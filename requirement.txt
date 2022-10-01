@@ -1,3 +1,6 @@
 ## pandas 
 ## numpy 
-## harshagamidi1994
+## matplotlib 
+## seaborn
+## sklearn
+## tensorflow
