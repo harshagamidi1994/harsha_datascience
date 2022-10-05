@@ -11,7 +11,10 @@ we will also need to have software installed to run and execute a Jupyter Notebo
 
 # Run
 In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
-jupyter notebook myproject.ipynb
+jupyter notebook trail.ipynb
+
+# data
+We are coindering the sensor fault detection.csv this project 
 
 
 
