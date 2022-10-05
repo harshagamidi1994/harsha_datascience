@@ -14,7 +14,7 @@ In a terminal or command window, navigate to the top-level project directory (th
 jupyter notebook trail.ipynb
 
 # data
-We are coindering the sensor fault detection.csv this project 
+We are coindering the sensor fault detection.csv for this project 
 
 
 
