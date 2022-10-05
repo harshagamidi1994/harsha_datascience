@@ -7,6 +7,10 @@ matplotlib
 
 scikit-learn
 
+seaborn
+
+
+
 we will also need to have software installed to run and execute a Jupyter Notebook
 
 # Run
