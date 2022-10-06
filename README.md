@@ -24,8 +24,7 @@ Data Visualization
 Predictive Modeling
 etc.
 # This project requires Python and the following Python libraries installed:
-Python
-PostGres, MySql
+Python,MySql,
 Pandas, jupyter,
 NumPy,matplotlib
 scikit-learn,seaborn
