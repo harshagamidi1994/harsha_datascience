@@ -46,7 +46,7 @@ Raw Data is being kept (Raw data folder containing raw data) within this repo.
 Data processing/transformation scripts are being kept [here]( preprocessing folder contains data processing scripts/notebooks)
 etc...
 
-If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here
+If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here.
 
 
 
