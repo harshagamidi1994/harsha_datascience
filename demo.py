@@ -8,5 +8,5 @@ app = FastAPI()
 def read_root():
     return {"Hello World"}
 
-# if __name__=="__main__":
-#     app_run(app)
+if __name__=="__main__":
+    app_run(app,port=8000)
